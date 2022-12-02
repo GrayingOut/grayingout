@@ -1,16 +1,27 @@
-### Hi there 👋
+```java
 
-<!--
-**GrayingOut/GrayingOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/** Me */
+public class GrayingOut {
 
-Here are some ideas to get you started:
+    /** My name */
+    private static final String name = "George";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    /** My gender */
+    private static final String gender = "Male";
+
+    /** My location */
+    private static final String location = "United Kingdom";
+
+    /** Programming languages I know */
+    private static final String[] languages = { "Java", "Python", "Lua/Luau", "JavaScript", "C" };
+
+    /** My interests/hobbies */
+    private static final String[] interests = { "Programming", "Gaming", "Computer Science" };
+
+    /** My birthday */
+    private static final LocalDate birthday = LocalDate.of(2005, 4, 28);
+
+    /** My "website" */
+    private static final String website = "https://grayingout.repl.co";
+}
+```
