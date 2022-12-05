@@ -5,6 +5,9 @@ public class GrayingOut {
 
     /** My name */
     private static final String name = "George";
+    
+    /** My personality */
+    private static final String personality = "ISTP-A";
 
     /** My gender */
     private static final String gender = "Male";
